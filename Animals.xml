@@ -41,7 +41,7 @@
 			</PolarBear>
 			<Panda>
 				<Millie disabled="mentally" favfood="bamboo"></Millie>
-				<Stan fight="with Karl the polar bear" weight="overweight"></Stant
+				<Stan fight="with Karl the polar bear" weight="overweight"></Stan>
 			</Panda>
 		</Bears>
 	</Mammals>
