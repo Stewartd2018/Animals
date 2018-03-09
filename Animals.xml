@@ -1,0 +1,224 @@
+<Animals>
+	<Mammals>
+		<Gorillas>
+			<MountainGorilla>
+				<Marcus attitude="mean" active="y"></Marcus>
+				<Caesar leader="y" strength="a lot lol"></Caesar>
+			</MountainGorilla>
+			<EasternGorilla>
+				<Lisa allergic="bananas" problem="lice"></Lisa>
+				<Brad strength="strong" attractive="y"></Brad>
+			</EasternGorilla>
+			<SilverbackGorilla>
+				<Harambe death="put down" legacy="best ever"></Harambe>
+				<George height="6 feet" weight="400"></George>
+			</SilverbackGorilla>
+		</Gorillas>
+		<Dogs>
+			<Bulldog>
+				<Romeo size="small" fur="spotty"></Romeo>
+				<Ruufus attitude="nice" problems="breathing"></Ruufus>
+			</Bulldog>
+			<GermanShepards>
+				<Donald attitude="nice" size="medium"></Donald>
+				<Axel history="fighting dog" children="n"></Axel>
+			</GermanShepards>
+			<Beagle>
+				<Snoopy noise="noise" ears="black"></Snoopy>
+				<Chuck size="small" fur="blonde"></Chuck>
+			</Beagle>
+		</Dogs>
+		<Bears>
+			<BlackBear>
+				<Micheal fish="caught in teeth" arms="furry"></Micheal>
+				<Leo size="smaller" record="attacked human"></Leo>
+			</BlackBear>
+				<Freddy personality="isolated" enjoys="hunting"></Freddy>
+				<Jamie dailysleep="8 hours" weight="400 pounds"></Jamie>
+			<PolarBear>
+				<Polly gender="f" fur="white"></Polly>
+				<Karl habitat="melted" teeth="sharp"></Karl>
+			</PolarBear>
+			<Panda>
+				<Millie disabled="mentally" favfood="bamboo"></Millie>
+				<Stan fight="with Karl the polar bear" weight="overweight"></Stant
+			</Panda>
+		</Bears>
+	</Mammals>
+	<Fish>
+		<Catfish>
+			<Channel>
+				<Bill whiskers="long" food="bluegill"></Bill>
+				<Frankie length="long" home="mississippi"></Frankie>
+			</Channel>
+			<Flathead>
+				<Flattie habitat="under a rock" jaw="strong"></Flattie>
+				<Darrell weight="15 pounds" caught="y"></Darrell>
+			</Flathead>
+			<Blue>
+				<Gabe age="15" size="large"></Gabe>
+				<Richard length="35 in" food="worms"></Richard>
+			</Blue>
+		</Catfish>
+		<Sharks>
+			<Megaladon>
+				<Bruce size="36 feet" teeth="fossilized"></Bruce>
+				<Ragnar food="smaller sharks" weight=".5 tons"></Ragnar>
+			</Megaladon>
+			<GreatWhite>
+				<Sharktopus size="50 feet" mix="shark and octopus"></Sharktopus>
+				<Leonard length="15 feet" color="grey"></Leonard>
+			</GreatWhite>
+			<Thrasher>
+				<Jemima children="2" lives="atlantic"></Jemima>
+				<Bjadmu taillength="10 feet" father="y"></Bjadmu>
+			</Thrasher>
+		</Sharks>
+		<Clownfish>
+			<OcellarisClownfish>
+				<Nemo dad="lost" fin="small"></Nemo>
+				<Marlin son="lost" sharks="won fight"></Marlin>
+			</OcellarisClownfish>
+			<MaroonClownfish>
+				<Rigma home="anemone" food="bateria"></Rigma>
+				<Dangoth stripecount="4" color="maroon"></Dangoth>
+			</MaroonClownfish>
+			<Anemonefishes>
+				<Hrard ocean="indian" size="6 in"></Hrard>
+				<Norrid gender="m" status="eaten"></Norrid>
+			</Anemonefishes>
+		</Clownfish>
+	</Fish>
+	<Amphibians>
+		<Frogs>
+			<PoisonDart>
+				<Gary spots="3" home="junlge"></Gary>
+				<Agning deadly="y" size="6 in"></Agning>
+			</PoisonDart>
+			<Glass>
+				<Lugdul skin="clear" species="endangered"></Lugdul>
+				<Dinah eggcount="500" gender="m"></Dinah>
+			</Glass>
+			<Pipidae>
+				<James babies="on back" sex="female"></James>
+				<Daniel father="75 children" legs="long"></Daniel>
+			</Pipidae>
+		</Frogs>
+		<Salmanders>
+			<Olm>
+				<Silann skin="slimey" home="water"></Silann>
+				<Stewie dwelling="cave" continent="europe"></Stewie>
+			</Olm>
+			<Newt>
+				<Sally food="moths" likes="sand"></Sally>
+				<Zussman attitude="couragous" height="7.3 in"></Zussman>
+			</Newt>
+			<MoleSalamander>
+				<Kermit drinks="lipton" business="none of his"></Kermit>
+				<Elmo resides="sesame street" bff="chloe"></Elmo>
+			</MoleSalamander>
+		</Salamanders>
+		<Caecilians>
+			<Ichthyophis>
+				<Ryan superpowers="no" has="swords"></Ryan>
+				<Hugh lives="dirt" loves="heavy metal"></Hugh>
+			</Ichthyophis>
+			<Caeciliidae>
+				<CJ lives="los santos" favcolor="green"></CJ>
+				<Smoke age="old" mentally="wise"></Smoke>
+			</Caeciliidae>
+			<Rhinatrematidae>
+				<Wormy wants="family" died="7.25.2017"></Wormy>
+				<Mark length="10 in" loves="wormy"></Mark>
+			</Rhinatrematidae>
+		</Caecilians>
+	</Amphibians>
+	<Birds>
+		<Penguins>
+			<Emperor>
+				<HappyFeet sings="n" eats="Fish"></HappyFeet>
+				<Jermaine ice="slides" feet="webbed"></Jermaine>
+			</Emperor>
+			<King>
+				<Mufasa food="pancakes" son="simba"></Mufasa>
+				<Simba fater="Mufasa" wants="to be king"></Simba>
+			</King>
+			<Crested>
+				<Joey fly="no" fly="wants to"></Joey>
+				<Robin choked="plastic" size="small"></Robin>
+			</Crested>
+		</Penguins>
+		<Chickens>
+			<LeghornChicken>
+				<Malcolm eats="rocks" legs="skinny"></Malcolm>
+				<MJ plays="basketball" color="black"></MJ>
+			</LeghornChicken>
+			<Silkie>
+				<Juan feathers="poofy" color="tan"></Juan>
+				<Jacob beak="dark" eggs="2"></Jacob>
+			</Silkie>
+			<Australorp>
+				<Sophie looks="beautiful" eyes="brown"></Sophie>
+				<Emilee sister="Sophie" wears="glasses"></Emilee>
+			</Australorp>
+		</Chickens>
+		<Eagles>
+			<Bald>
+				<Jayjay wing="broken" claws="sharp"></Jayjay>
+				<Abraham head="white" beak="yellow"></Abraham>
+			</Bald>
+			<Golden>
+				<Teddy feathers="not actual gold" food="mice"></Teddy>
+				<Paul size="large" wingspan="5.5 feet"></Paul>
+			</Golden>
+			<Booted>
+				<Caleb head="large" wings="moderate"></Caleb>
+				<Alan brain="small" likes="comics"></Alan>
+			</Booted>
+		</Eagles>
+	</Birds>
+	<Reptiles>
+		<Turtles>
+			<Box>
+				<Malcolm age="15" shell="broken"></Malcolm>
+				<Huey leader="other turtles" hair="afro"></Huey> 
+			</Box>
+			<Trionychidae>
+				<Aaron club="glee" hair="red"></Aaron>
+				<Lilly attitude="happy" shell="soft"></Lilly>
+			</Trionychidae>
+			<Kinosternidae>
+				<Jojo muscle="strong" speaks="japanese"></Jojo>
+				<Mary son="Jesus" tail="tall"></Mary>
+			</Kinosternidae>
+		</Turtles>
+		<Dinos>
+			<TRex>
+				<Rex arms="little" head="big"></Rex>
+				<Jesus savior="y" legday="never skipped"></Jesus>
+			</TRex>
+			<Velociraptor>
+				<Dennis cage="escaped" brain="intellegent"></Dennis>
+				<Ladasha movie="Jurrasic World" food="chicken"></Ladasha>
+			</Velociraptor>
+			<TitanosaurArgentinosaurusHuinculensis>
+				<Kong size="really huge" neck="really long"></Kong>
+				<Sophie status="biggest dino" toes="big"></Sophie>
+			</TitanosaurArgentinosaurusHuinculensis>
+		</Dinos>
+		<Skink>
+			<BlueTailed>
+				<Joy attitude="happy" dislikes="sadness"></Joy>
+				<Danny plays="bagpipes" likes="jazz"></Danny>
+			</BlueTailed>
+			<Western>
+				<Adrian from="Mexico" height="5'7''"></Adrian>
+				<Donny flys="first class" watches="7"></Donny>
+			</Western>
+			<Glaphyromorphus>
+				<Parker drives="suburban" enjoys="swimming"></Parker>
+				<Smith eats="pinecones" shoesize="9.5"></Smith>
+			</Glaphyromorphus>
+		</Skink>
+	</Reptiles>
+</Animals>
