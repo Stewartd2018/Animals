@@ -41,7 +41,7 @@
 			</PolarBear>
 			<Panda>
 				<Millie disabled="mentally" favfood="bamboo"></Millie>
-				<Stan fight="with Karl the polar bear" weight="overweight"></Stan>
+				<Stan fight="with Karl the polar bear" weight="overweight"></Stant
 			</Panda>
 		</Bears>
 	</Mammals>
@@ -104,7 +104,7 @@
 				<Daniel father="75 children" legs="long"></Daniel>
 			</Pipidae>
 		</Frogs>
-		<Salamanders>
+		<Salmanders>
 			<Olm>
 				<Silann skin="slimey" home="water"></Silann>
 				<Stewie dwelling="cave" continent="europe"></Stewie>
@@ -150,16 +150,16 @@
 		</Penguins>
 		<Chickens>
 			<LeghornChicken>
-				<Malcolm eats="rocks" legs="skinny"></Malcolm>
-				<MJ plays="basketball" color="black"></MJ>
+				<Ezekiel eats="rocks" weight="underweight"></Ezekiel>
+				<Heyhey dislikes="ocean" swim="no"></Heyhey>
 			</LeghornChicken>
 			<Silkie>
-				<Juan feathers="poofy" color="tan"></Juan>
-				<Jacob beak="dark" eggs="2"></Jacob>
+				<Adam feathers="poofy" beak="orange"></Adam>
+				<Scott color="tan" eats="ice cream"></Scott>
 			</Silkie>
 			<Australorp>
-				<Sophie looks="beautiful" eyes="brown"></Sophie>
-				<Emilee sister="Sophie" wears="glasses"></Emilee>
+				<Kendall size="small" skin="black"></Kendall>
+				<Marcellus nose="large" attitude="brave"></Marcellus> 
 			</Australorp>
 		</Chickens>
 		<Eagles>
@@ -181,15 +181,12 @@
 		<Turtles>
 			<Box>
 				<Malcolm age="15" shell="broken"></Malcolm>
-				<Huey leader="other turtles" hair="afro"></Huey> 
+				<Huey leads="other turtles" hair="big afro"></Huey>
 			</Box>
 			<Trionychidae>
-				<Aaron club="glee" hair="red"></Aaron>
-				<Lilly attitude="happy" shell="soft"></Lilly>
+				<Todd sky="y" talksto="chickens"></Todd>
 			</Trionychidae>
 			<Kinosternidae>
-				<Jojo muscle="strong" speaks="japanese"></Jojo>
-				<Mary son="Jesus" tail="tall"></Mary>
 			</Kinosternidae>
 		</Turtles>
 		<Dinos>
@@ -208,17 +205,12 @@
 		</Dinos>
 		<Skink>
 			<BlueTailed>
-				<Joy attitude="happy" dislikes="sadness"></Joy>
-				<Danny plays="bagpipes" likes="jazz"></Danny>
 			</BlueTailed>
 			<Western>
-				<Adrian from="Mexico" height="5'7''"></Adrian>
-				<Donny flys="first class" watches="7"></Donny>
 			</Western>
 			<Glaphyromorphus>
-				<Parker drives="suburban" enjoys="swimming"></Parker>
-				<Smith eats="pinecones" shoesize="9.5"></Smith>
 			</Glaphyromorphus>
 		</Skink>
 	</Reptiles>
 </Animals>
+d
